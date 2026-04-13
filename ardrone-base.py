@@ -1,5 +1,4 @@
-#Copyright (C) 2024  Moa-IcI
-####THIS IS THE MOST BASIC PROGRAM TO CONTROL THE DRONE####
+
 import tkinter as tk
 import socket
 import time
