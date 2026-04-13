@@ -1,5 +1,4 @@
-#Copyright (C) 2024  Moa-IcI
-####THIS IS THE COMPUTER VERSION OF THE CODE####
+
 import tkinter as tk
 import socket
 import time
